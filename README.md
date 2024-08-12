@@ -33,16 +33,16 @@ This is a simple Python-based ticketing system designed for event hosts. It allo
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/LwandoS30/Python_Beginner_Project_2.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd your-repository-name
+   cd Python_Beginner_Project_2
 ```
 3. **Run the script:
 ```bash
-    python ticketing_system
+    Python_Beginner_Project_2
 ```
 Usage
 **1. Enter Event Name:**
@@ -65,6 +65,23 @@ Usage
 ```
   The system will display the ticket type, price, customer details, and remaining tickets.
 ```
-Example:
+**Example:**
+
+
 ![](https://github.com/user-attachments/assets/1d63ef70-2479-4a1a-8fdf-c4a2e5401b11)
+
+**Contributing**
+```
+      If you want to contribute to this project, please fork the repository, make your changes, and       submit a pull request.
+```
+**License**
+```
+   This project is licensed under the MIT License - see the LICENSE file for details.
+```
+**Contact**
+```
+   For any questions or feedback, please contact sodingalwando98@gmail.com.
+```
+
+
 
